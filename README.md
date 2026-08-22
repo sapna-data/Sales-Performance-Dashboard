@@ -18,10 +18,10 @@ This project focuses on translating raw tracking data into clear, actionable vis
 ## 📸 Dashboard Snapshots
 
 ### 1. Sales Dashboard (Excel Preview)
-*(You can view the full file uploaded in this repository)*
+![Sales Dashboard](Excel_Dashboard.png)
 
 ### 2. Power BI Dashboard Preview
-![Power BI Dashboard](powe bi dashboard github.png)
+![Power BI Dashboard](PowerBI_Dashboard.png)
 
 ---
 
